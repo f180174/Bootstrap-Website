@@ -1,0 +1,240 @@
+/* Title */
+.title-name {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.company-name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+}
+
+#title {
+  background-color: #f4511e;
+  padding: 7% 15%;
+}
+
+.paragrapg-space {
+  padding-bottom: 15px;
+  font-size: 1.5rem;
+}
+
+.button-subscribe {
+  padding: 1px 20px 1px 20px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: 1rem;
+}
+
+Nav-bar Section */ #nav-bar {
+  padding: 0 0 6% 0;
+}
+
+.navbar-brand {
+  margin-top: 150px;
+  font-family: Ubuntu;
+  font-size: 4rem;
+  font-style: bold;
+  padding: 0 0px 0 140px;
+}
+
+.nav-item-names {
+  margin-top: 150px;
+  margin-right: 100px;
+  font-size: 1.3rem;
+  font-family: Montserrat-light;
+}
+
+/* About Section */
+#about {
+  background-color: white;
+  padding: 7% 3%;
+}
+
+.graph-color {
+  color: #f4511e;
+  padding-left: 80px;
+}
+
+.lorem-paragraph {
+  line-height: 1.5rem;
+  padding-bottom: 20px;
+}
+
+.about-company {
+  margin-bottom: 30px;
+}
+
+/* Values Section */
+#values {
+  padding: 7% 3%;
+  background-color: #dcdcdc;
+}
+
+.values-world {
+  color: #f4511e;
+}
+
+.values-h2 {
+  padding-bottom: 50px;
+}
+
+.mission-h4 {
+  color: #303030;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  margin-bottom: 50px;
+}
+
+/* Services Section */
+#services {
+  padding: 5% 7% 10% 7%;
+  text-align: center;
+}
+
+.services-h2 {
+  padding-bottom: 10px;
+}
+
+.services-h4 {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+
+.ser-font {
+  color: #f4511e;
+  margin: : 0px 5px 0px 5px;
+}
+
+.lorem-services {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.lorem-services1 {
+  margin-top: 20px;
+}
+
+/* Portfolio Section */
+#portfolio {
+  background-color: #dcdcdc;
+  text-align: center;
+}
+
+.portfolio-imgs {
+  border-radius: 100%;
+}
+
+.portfolio-h4 {
+  margin-bottom: 50px;
+}
+
+.portfolio-h2 {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.portfolio-p {
+  padding-top: 20px;
+}
+
+.portfolio-p1 {
+  padding-bottom: 20px;
+}
+
+/* carusel-section */
+#carusel-section {
+  background-color: white;
+  text-align: center;
+  background-color: #ef8172;
+}
+
+.carousel-inner {
+  padding: 7% 28% 7% 28%;
+}
+
+.carusel-margin {
+  margin-bottom: 80px;
+}
+
+.carusel-margin1 {
+  line-height: 2.5rem;
+  font-size: 1.5rem;
+  margin-bottom: 80px;
+}
+
+/* Pricing Section */
+#pricing {
+  text-align: center;
+  margin: 4% 0% 4% 0%;
+}
+
+.c-head {
+  background-color: #f4511e;
+  text-align: center;
+  color: white;
+}
+
+.pricing-h2 {
+  margin-bottom: 35px;
+}
+
+.pricing-p {
+  margin-bottom: 35px;
+  font-style: bold;
+  font-size: 1.3rem;
+}
+
+.c-border {
+  border-color: #f4511e;
+  margin: 30px 30px;
+}
+
+.btn-lg {
+  background-color: #f4511e;
+  color: white;
+  margin-top: 30px;
+}
+
+.pricing-h3 {
+  margin-top: 20px;
+}
+
+.card-footer {
+  background-color: white;
+}
+
+/* Contact section */
+#contact-section {
+  padding: 0px 0px 0px 50px;
+  background-color: #dcdcdc;
+}
+
+.contact-h2 {
+  text-align: center;
+  padding-top: 60px;
+  margin-bottom: 60px;
+}
+
+.mar-contact {
+  margin-left: 50px;
+}
+
+.btn-outline-primary {
+  margin-bottom: 100px;
+}
+
+/* Map Section */
+ #map-section {
+  width: 100%;
+  border-radius: 100%;
+/  padding: 0px 0px 0px 15px;
+}
+
+/* Footer Section */
+#footer-sec {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
